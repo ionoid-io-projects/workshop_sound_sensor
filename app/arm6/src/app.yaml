@@ -1,0 +1,5 @@
+name: sound-env
+version: 1.0
+apps:
+    sound-env:
+        command:    /bin/sound
